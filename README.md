@@ -16,12 +16,18 @@
 
 ## 2. The BRDF correction and graphing in this paper is done using python.
 
-         The BRDF_Correction&Pic_export folder contains two files: The code for BRDF correction using the original and simplified models, respectively, which also includes Raw TOA time-series fitting, BRDF model parameter generation, TOA time-series fitting after BRDF correction, and radiometric degraduation  calculation etc., and also includes the figure for each section.
+    The BRDF_Correction&Pic_export folder contains two files: The code for BRDF correction using the original and simplified models, respectively, which also includes Raw TOA time-series fitting, BRDF model parameter generation, TOA time-series fitting after BRDF correction, and radiometric degraduation  calculation etc., and also includes the figure for each section.
     
 
 ## 3. Data.zip：
-         The data in Data.zip is the data of the aoi region obtained by clipping in the step 1, and is also the data needed for BRDF correction in the step 2, it should be noted that due to the limitation of the file size, we do not upload the original data here.
+      The data in Data.zip is the data of the aoi region obtained by clipping in the step 1, and is also the data needed for BRDF correction in the step 2, it should be noted that due to the limitation of the file size, we do not upload the original data here.
 
 ## 4. SRF_MERSI-II&MDDIS: 
-         This section is the python code for plotting the MODIS and FY-3D MERSI-II spectral response functions
+      This section is the python code for plotting the MODIS and FY-3D MERSI-II spectral response functions
+      
+## 5. Homogenization analysis: 
+In this paper, a homogenization analysis of the TOA reflectance at DOME C has been carried out with reference to the method of loeb
+   - N. Loeb, “In-flight calibration of NOAA AVHRR visible and near-IR 660 bands over Greenland and Antarctica,” Int. J. Remote Sens., vol. 18, no. 3, 661 pp. 477–490, 1997.
+      
+      
  
