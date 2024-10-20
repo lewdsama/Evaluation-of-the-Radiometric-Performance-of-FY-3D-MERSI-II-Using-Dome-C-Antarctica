@@ -1,3 +1,9 @@
+Evaluation of the Radiometric Performance of FY-3D MERSI-II Using Dome C, Antarctica
+Zicheng Yin , Teng Li, Linlu Mei, Xiao Cheng , Lei Zheng , Qi Liang , and Xinqing Li 
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 13483-13493, 2024, doi: 10.1109/JSTARS.2024.3426968.
+https://ieeexplore.ieee.org/abstract/document/10596696
+
+
 1. The data preprocessing in this paper is mainly carried out by IDL and Arcmap, and the code is placed in the DataPreprocessing folder.
 
    The DataPreprocessing folder contains three files, FY-3D_MEISI-II_Geometric&Radiometric_Corrections.pro and SZA_B3B4_Extract.pro, and arcpy_clip_batch.txt.
